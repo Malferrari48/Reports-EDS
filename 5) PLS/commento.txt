@@ -1,0 +1,2 @@
+C'è però un bias in predizione -0.33 qs non è ottimale.
+Bisogna capire se è dovuto al preprocessing (ovvero se altri che hai provato ne avessero meno) oppure se è intrinseco nei dati.

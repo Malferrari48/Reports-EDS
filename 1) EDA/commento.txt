@@ -1,0 +1,2 @@
+Parallel coordinates:
+l'osservazione che fai per SA non è valida per tutte le 7 variabili, quindi avresti dovuto specificare i nomi.
